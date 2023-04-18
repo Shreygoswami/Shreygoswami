@@ -15,8 +15,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;A%20Computer%20Science%20Engineer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/harsh-100">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/harsh-100?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/Shreygoswami">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Shreygoswami?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 <hr>
 ## About Me
@@ -52,8 +52,8 @@ So Far I Have Learned C, C++, Python, HTML, CSS, JavaScript etc, TypeScript, Fir
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
-  <a href="https://www.github.com/harsh-100"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/harsh-agarwal-669221192/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://www.github.com/Shreygoswami"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sonugoswami1/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 <!--   <a href="https://stackoverflow.com/users/15781928/himanshu-jangidy"><img alt="StackOverflow" title="StackOverflow" src="https://img.shields.io/badge/-stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a> -->
 <!--   <a href="https://www.instagram.com/himy.in/"> -->
 <!--   <img alt="Himanshu Jangid's Instagram" title="Instagram" src="https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
@@ -149,8 +149,8 @@ So Far I Have Learned C, C++, Python, HTML, CSS, JavaScript etc, TypeScript, Fir
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Harsh Agarwal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=harsh-100&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Harsh Agarwal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=harsh-100&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sonu Goswami's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=harsh-100&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sonu Goswami's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=harsh-100&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br/>
@@ -167,20 +167,20 @@ So Far I Have Learned C, C++, Python, HTML, CSS, JavaScript etc, TypeScript, Fir
 <details> 
   <summary>💻 My Organization</summary>
   <br/>
-  <img alt="Harsh Agarwal's Organizations" src="https://orgstats.vercel.app/?username=harsh-100"/>
+  <img alt="Sonu Goswami's Organizations" src="https://orgstats.vercel.app/?username=harsh-100"/>
   <br/>
   <br/>
 </details>
 <br/>
 
-<img alt="Harsh Agarwal's Github Metrics" src="https://metrics.lecoq.io/harsh-100" />
+<img alt="Sonu Goswami's Github Metrics" src="https://metrics.lecoq.io/harsh-100" />
 <br/>
 <br/>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Harsh Agarwal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harsh-100&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sonu Goswami's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harsh-100&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <hr/>
 
-<img alt="Views" title="Profile Views" src="https://gpvc.arturio.dev/harsh-100"/>
+<img alt="Views" title="Profile Views" src="https://gpvc.arturio.dev/Shreygoswami"/>
 <hr/>
 <hr/>
