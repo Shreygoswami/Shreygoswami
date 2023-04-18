@@ -29,7 +29,7 @@ I Like Do Things As Fast As Possible So That They Doesn't Take More Of My Time.
 <br>
 I Started My Journey With Computers In 2020.
 <br>
-Currently Working On Technologies Like MERN(MongoDB, Express,React js, Node js).
+Currently Working On  (Salesforce.com Administration, LWC, SALES CLOUD, APEX, JS/HTML/CSS).
 I have Worked On Many Projects Like :
 Soon it will be Public --- 👇
 <!-- IM_ALEXA , Self-driving Car , Dairy Calender , Youtube player With API ,  -->
@@ -37,7 +37,7 @@ Soon it will be Public --- 👇
 
 
 <br>
-So Far I Have Learned C, C++, Python, HTML, CSS, JavaScript etc, TypeScript, Firebase, NodeJS, React etc.
+So Far I Have Learned C, C++, Python, HTML, CSS, JavaScript, SALESFORCE.COM Administration, Apex, SOSL, SOQL, LWC etc.
 <br>
 <!-- Here's <a href="https://himanshurajora.github.io">My Portfolio</a> and <a href="https://www.jiocloud.com/s/?t=MQacwhLNYXsnrVPc&s=a9">My Resume</a> -->
 
@@ -81,22 +81,16 @@ So Far I Have Learned C, C++, Python, HTML, CSS, JavaScript etc, TypeScript, Fir
 ### 👨‍💻 Programming languages
 
 <p>
-    <img alt="MIPS Assembly" src="https://img.shields.io/badge/Assembly%20-%23525252.svg?logo=mega&logoColor=white">
     <img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white">
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-    <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-    <img alt="Google Apps Script" src="https://img.shields.io/badge/Google%20Apps%20Script%20-%2302569B.svg?logo=google-cloud&logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-    <img alt="SASS" src="https://img.shields.io/badge/Sass%20-hotpink.svg?logo=SASS&logoColor=white">
     <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white">
+    <img alt="Salesforce" src=" https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white">
+    <img alt="Bootstrap" src=" https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 <hr/>
 
@@ -104,12 +98,12 @@ So Far I Have Learned C, C++, Python, HTML, CSS, JavaScript etc, TypeScript, Fir
 
 <p>
     <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white">
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white">
+   
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white">
     <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white">
-    <img alt="PHPUnit" src="https://img.shields.io/badge/PHPUnit%20-%233C9CD7.svg?logo=jekyll&logoColor=white">
-    <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+  
+ 
 </p>
 <hr/>
 
