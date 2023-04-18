@@ -164,23 +164,3 @@ So Far I Have Learned C, C++, Python, HTML, CSS, JavaScript etc, TypeScript, Fir
   <br/>
 </details>
 
-<details> 
-  <summary>💻 My Organization</summary>
-  <br/>
-  <img alt="Sonu Goswami's Organizations" src="https://orgstats.vercel.app/?username=harsh-100"/>
-  <br/>
-  <br/>
-</details>
-<br/>
-
-<img alt="Sonu Goswami's Github Metrics" src="https://metrics.lecoq.io/harsh-100" />
-<br/>
-<br/>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sonu Goswami's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harsh-100&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-<hr/>
-
-<img alt="Views" title="Profile Views" src="https://gpvc.arturio.dev/Shreygoswami"/>
-<hr/>
-<hr/>
